@@ -5,7 +5,7 @@
 #include <time.h>
 #include <arm_neon.h>
 
-#define N 100
+#define N 200
 
 void matrix_init(int rows, int cols, int matrix[rows][cols]);
 void matrix_d_init(int rows, int cols, double matrix[rows][cols]);
